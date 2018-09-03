@@ -1,0 +1,19 @@
+From ea4e5f906a4f13f88f591cff13dd8bb66b1e91a5 Mon Sep 17 00:00:00 2001
+From: Roy Siek <roy.siek@gmxde>
+Date: Mon, 3 Sep 2018 11:19:56 +0200
+Subject: =?UTF-8?q?Datei1=20gerade=20ver=C3=A4ndert=20hinzugef=C3=BCgt?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+diff --git a/Datei1.txt b/Datei1.txt
+index d0dcc4f..81033bf 100644
+--- a/Datei1.txt
++++ b/Datei1.txt
+@@ -1,2 +1 @@
+-Zweite Veränderung!
+-Noch eine Datei für das Repo
+\ No newline at end of file
++Komplett neuer Inhalt in Datei1.txt
+\ No newline at end of file
